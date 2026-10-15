@@ -1,0 +1,1124 @@
+{"ts":"2026-10-15T07:38:44.711Z","session":"20261015-073844","kind":"server_start","data":{"port":5500,"host":"0.0.0.0","root":"c:\\Users\\sambr\\Documents\\School\\schooljaar2026-2027\\Webtechnologie\\Labo07","https":false,"live_reload":true}}
+{"ts":"2026-10-15T07:38:45.388Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:38:45.451Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c0","url":"http://localhost:5500/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:38:57.080Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:38:57.121Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c1","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:39:02.137Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c0"}}
+{"ts":"2026-10-15T07:39:25.017Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:39:25.017Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:39:25.252Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c1"}}
+{"ts":"2026-10-15T07:39:25.408Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-15T07:39:26.396Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c2","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:39:26.615Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:39:26.615Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:39:26.617Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c2"}}
+{"ts":"2026-10-15T07:39:26.625Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:39:26.935Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c3","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:39:28.505Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:39:28.505Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:39:28.507Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c3"}}
+{"ts":"2026-10-15T07:39:28.519Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-15T07:39:28.766Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c4","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:39:29.577Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:39:29.577Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:39:29.579Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c4"}}
+{"ts":"2026-10-15T07:39:29.594Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-15T07:39:29.967Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c5","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:39:34.306Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:39:34.306Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:39:34.309Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c5"}}
+{"ts":"2026-10-15T07:39:34.330Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":5}}
+{"ts":"2026-10-15T07:39:34.655Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c6","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:39:39.396Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:39:39.396Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:39:39.399Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c6"}}
+{"ts":"2026-10-15T07:39:39.422Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-10-15T07:39:39.701Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c7","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:39:50.449Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:39:50.449Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:39:50.451Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c7"}}
+{"ts":"2026-10-15T07:39:50.476Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-15T07:39:50.817Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c8","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:39:53.610Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:39:53.610Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:39:53.612Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c8"}}
+{"ts":"2026-10-15T07:39:53.634Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":7}}
+{"ts":"2026-10-15T07:39:53.902Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c9","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:39:56.027Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:39:56.028Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:39:56.031Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c9"}}
+{"ts":"2026-10-15T07:39:56.046Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-15T07:39:56.365Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c10","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:40:05.065Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:40:05.065Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:40:05.070Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c10"}}
+{"ts":"2026-10-15T07:40:05.081Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:40:05.375Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c11","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:40:08.256Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:40:08.256Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:40:08.260Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c11"}}
+{"ts":"2026-10-15T07:40:08.270Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:40:08.662Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c12","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:40:16.263Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"create"}}
+{"ts":"2026-10-15T07:40:16.263Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:40:16.265Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c12"}}
+{"ts":"2026-10-15T07:40:16.274Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:40:16.508Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c13","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:40:29.888Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:40:29.888Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:40:29.892Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c13"}}
+{"ts":"2026-10-15T07:40:29.902Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:40:30.111Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c14","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:40:31.728Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:40:31.729Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:40:31.734Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c14"}}
+{"ts":"2026-10-15T07:40:31.744Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:40:31.766Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:40:32.080Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c15","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:40:36.769Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:40:36.769Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:40:36.771Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c15"}}
+{"ts":"2026-10-15T07:40:36.781Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:40:36.805Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:40:37.099Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c16","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:40:40.576Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:40:40.576Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:40:40.580Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c16"}}
+{"ts":"2026-10-15T07:40:40.591Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:40:40.615Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:40:40.856Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c17","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:40:43.862Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:40:43.862Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:40:43.866Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c17"}}
+{"ts":"2026-10-15T07:40:43.879Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:40:43.910Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:40:44.257Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c18","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:41:17.962Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:41:17.962Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:41:17.966Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c18"}}
+{"ts":"2026-10-15T07:41:17.976Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:41:18.001Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:41:19.603Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:41:22.844Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:41:24.816Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c19","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:41:25.111Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:41:25.112Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:41:25.114Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c19"}}
+{"ts":"2026-10-15T07:41:25.126Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:41:25.144Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:41:25.346Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c20","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:41:27.472Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:41:27.472Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:41:27.475Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c20"}}
+{"ts":"2026-10-15T07:41:27.485Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-15T07:41:27.506Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:41:27.784Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c21","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:41:28.919Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:41:28.919Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:41:28.921Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c21"}}
+{"ts":"2026-10-15T07:41:28.937Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-10-15T07:41:28.956Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:41:29.332Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c22","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:41:33.826Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:41:33.826Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:41:33.830Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c22"}}
+{"ts":"2026-10-15T07:41:33.842Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:41:33.893Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:41:34.043Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c23","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:41:47.878Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:41:47.879Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:41:47.881Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c23"}}
+{"ts":"2026-10-15T07:41:47.888Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:41:47.928Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:41:48.306Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c24","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:41:49.887Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:41:49.888Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:41:49.891Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c24"}}
+{"ts":"2026-10-15T07:41:49.904Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:41:49.988Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:41:50.248Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c25","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:41:51.215Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:41:51.215Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:41:51.217Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c25"}}
+{"ts":"2026-10-15T07:41:51.226Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:41:51.246Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:41:51.502Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c26","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:41:54.796Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:41:54.797Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:41:54.802Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c26"}}
+{"ts":"2026-10-15T07:41:54.813Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:41:54.836Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":2}}
+{"ts":"2026-10-15T07:41:55.072Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c27","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:42:01.813Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:42:01.814Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:42:01.815Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c27"}}
+{"ts":"2026-10-15T07:42:01.825Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:42:01.845Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:42:02.233Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c28","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:42:03.257Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:42:03.257Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:42:03.259Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c28"}}
+{"ts":"2026-10-15T07:42:03.266Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:42:03.288Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:42:03.540Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c29","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:42:04.344Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:42:04.344Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:42:04.347Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c29"}}
+{"ts":"2026-10-15T07:42:04.358Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:42:04.375Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:42:04.657Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c30","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:42:08.325Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:42:08.325Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:42:08.328Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c30"}}
+{"ts":"2026-10-15T07:42:08.335Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:42:08.353Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:42:08.737Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c31","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:42:12.182Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:42:12.182Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:42:12.184Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c31"}}
+{"ts":"2026-10-15T07:42:12.200Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:42:12.230Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:42:12.598Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c32","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:42:51.052Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:42:51.085Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:42:51.101Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c32"}}
+{"ts":"2026-10-15T07:42:51.110Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:42:51.142Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:42:51.373Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c33","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:42:54.633Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:42:54.633Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:42:54.637Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c33"}}
+{"ts":"2026-10-15T07:42:54.645Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:42:54.663Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:42:54.944Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c34","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:42:56.745Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:42:56.746Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:42:56.750Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c34"}}
+{"ts":"2026-10-15T07:42:56.761Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:42:56.784Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:42:57.115Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c35","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:43:26.422Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:43:26.422Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:43:26.424Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c35"}}
+{"ts":"2026-10-15T07:43:26.438Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:43:26.462Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:43:26.651Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c36","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:43:31.374Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:43:31.374Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:43:31.378Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c36"}}
+{"ts":"2026-10-15T07:43:31.391Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:43:31.413Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:43:31.788Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c37","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:43:38.538Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:43:38.538Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:43:38.540Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c37"}}
+{"ts":"2026-10-15T07:43:38.549Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:43:38.575Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:43:38.814Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c38","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:43:45.787Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:43:45.787Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:43:45.790Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c38"}}
+{"ts":"2026-10-15T07:43:45.811Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:43:45.833Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:43:46.164Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c39","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:43:57.775Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:43:57.775Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:43:57.781Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c39"}}
+{"ts":"2026-10-15T07:43:57.797Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:43:57.814Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:43:58.046Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c40","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:44:03.718Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:44:03.718Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:44:03.722Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c40"}}
+{"ts":"2026-10-15T07:44:03.734Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:44:03.756Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:44:03.951Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c41","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:44:07.651Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:44:07.651Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:44:07.653Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c41"}}
+{"ts":"2026-10-15T07:44:07.665Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:44:07.686Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:44:08.039Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c42","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:44:19.604Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:44:19.604Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:44:19.605Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c42"}}
+{"ts":"2026-10-15T07:44:19.620Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:44:19.642Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:44:19.929Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c43","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:44:25.346Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:44:25.346Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:44:25.348Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c43"}}
+{"ts":"2026-10-15T07:44:25.354Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:44:25.367Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:44:25.602Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c44","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:44:53.017Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:44:53.017Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:44:53.020Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c44"}}
+{"ts":"2026-10-15T07:44:53.033Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T07:44:53.059Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:44:53.360Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c45","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:00.571Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:00.571Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:00.574Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c45"}}
+{"ts":"2026-10-15T07:45:00.583Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:00.604Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:00.828Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c46","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:05.259Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:05.259Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:05.261Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c46"}}
+{"ts":"2026-10-15T07:45:05.273Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:45:05.302Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:05.477Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c47","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:08.044Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:08.044Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:08.045Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c47"}}
+{"ts":"2026-10-15T07:45:08.052Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:08.061Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:08.322Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c48","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:10.285Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:10.285Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:10.287Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c48"}}
+{"ts":"2026-10-15T07:45:10.296Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:10.308Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:10.680Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c49","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:27.346Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:27.346Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:27.355Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c49"}}
+{"ts":"2026-10-15T07:45:27.359Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:27.376Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:27.626Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c50","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:29.768Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:29.768Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:29.771Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c50"}}
+{"ts":"2026-10-15T07:45:29.780Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:29.797Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:30.073Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c51","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:31.972Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:31.972Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:31.976Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c51"}}
+{"ts":"2026-10-15T07:45:31.986Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:32.011Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:32.404Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c52","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:34.807Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:34.807Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:34.814Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c52"}}
+{"ts":"2026-10-15T07:45:34.824Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:34.847Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:45:35.108Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c53","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:36.141Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:36.142Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:36.146Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c53"}}
+{"ts":"2026-10-15T07:45:36.156Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:36.172Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:36.549Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c54","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:37.192Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:37.192Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:37.197Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c54"}}
+{"ts":"2026-10-15T07:45:37.221Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:45:37.239Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:37.567Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c55","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:46.726Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:46.726Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:46.729Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c55"}}
+{"ts":"2026-10-15T07:45:46.736Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:46.760Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:47.061Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c56","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:49.804Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:49.804Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:49.805Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c56"}}
+{"ts":"2026-10-15T07:45:49.815Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:49.832Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:50.132Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c57","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:52.085Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:52.086Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:52.088Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c57"}}
+{"ts":"2026-10-15T07:45:52.099Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:52.117Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:52.335Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c58","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:53.343Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:53.343Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:53.345Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c58"}}
+{"ts":"2026-10-15T07:45:53.359Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:45:53.397Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:45:53.740Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c59","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:45:59.651Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:45:59.652Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:45:59.655Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c59"}}
+{"ts":"2026-10-15T07:45:59.668Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:59.686Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:45:59.985Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c60","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:46:01.773Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:46:01.774Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:46:01.778Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c60"}}
+{"ts":"2026-10-15T07:46:01.790Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:01.810Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:02.076Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c61","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:46:04.649Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:46:04.649Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:46:04.650Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c61"}}
+{"ts":"2026-10-15T07:46:04.657Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:04.677Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:04.915Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c62","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:46:08.650Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:46:08.650Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:46:08.654Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c62"}}
+{"ts":"2026-10-15T07:46:08.668Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:08.694Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:08.998Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c63","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:46:12.401Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:46:12.401Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:46:12.404Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c63"}}
+{"ts":"2026-10-15T07:46:12.414Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:12.432Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:12.651Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c64","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:46:14.902Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:46:14.902Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:46:14.908Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c64"}}
+{"ts":"2026-10-15T07:46:14.917Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:46:14.947Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:15.212Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c65","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:46:18.931Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:46:18.931Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:46:18.936Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c65"}}
+{"ts":"2026-10-15T07:46:18.949Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:46:18.970Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:19.305Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c66","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:46:21.803Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:46:21.803Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:46:21.806Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c66"}}
+{"ts":"2026-10-15T07:46:21.817Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:46:21.844Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:22.190Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c67","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:46:33.253Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:46:33.254Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:46:33.256Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c67"}}
+{"ts":"2026-10-15T07:46:33.274Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:33.316Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:33.600Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c68","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:46:44.124Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:46:44.124Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:46:44.128Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c68"}}
+{"ts":"2026-10-15T07:46:44.148Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:46:44.171Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:44.515Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c69","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:46:47.493Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:46:47.493Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:46:47.496Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c69"}}
+{"ts":"2026-10-15T07:46:47.521Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":4}}
+{"ts":"2026-10-15T07:46:47.538Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:47.881Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c70","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:46:53.549Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:46:53.549Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:46:53.553Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c70"}}
+{"ts":"2026-10-15T07:46:53.569Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:46:53.593Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:53.854Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c71","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:46:55.582Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:46:55.583Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:46:55.584Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c71"}}
+{"ts":"2026-10-15T07:46:55.596Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:55.624Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:46:55.899Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c72","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:47:03.005Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:47:03.005Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:47:03.007Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c72"}}
+{"ts":"2026-10-15T07:47:03.022Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:03.059Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:47:03.375Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c73","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:47:19.226Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:47:19.226Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:47:19.229Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c73"}}
+{"ts":"2026-10-15T07:47:19.240Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:19.259Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:19.468Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c74","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:47:20.540Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:47:20.540Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:47:20.542Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c74"}}
+{"ts":"2026-10-15T07:47:20.556Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:47:20.585Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:20.851Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c75","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:47:26.431Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:47:26.431Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:47:26.434Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c75"}}
+{"ts":"2026-10-15T07:47:26.450Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:47:26.480Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:26.728Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c76","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:47:31.232Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:47:31.232Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:47:31.233Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c76"}}
+{"ts":"2026-10-15T07:47:31.246Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:31.266Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:31.575Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c77","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:47:32.791Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:47:32.791Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:47:32.794Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c77"}}
+{"ts":"2026-10-15T07:47:32.805Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:32.824Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:33.125Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c78","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:47:34.640Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:47:34.640Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:47:34.644Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c78"}}
+{"ts":"2026-10-15T07:47:34.653Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:47:34.670Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:35.025Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c79","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:47:38.006Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:47:38.006Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:47:38.008Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c79"}}
+{"ts":"2026-10-15T07:47:38.019Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:47:38.048Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:38.323Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c80","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:47:43.166Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:47:43.166Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:47:43.169Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c80"}}
+{"ts":"2026-10-15T07:47:43.184Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:47:43.209Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:43.541Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c81","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:47:46.291Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:47:46.291Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:47:46.292Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c81"}}
+{"ts":"2026-10-15T07:47:46.305Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":4}}
+{"ts":"2026-10-15T07:47:46.322Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:47:46.675Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c82","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:48:00.388Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:48:00.388Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:48:00.391Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c82"}}
+{"ts":"2026-10-15T07:48:00.409Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T07:48:00.444Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:00.690Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c83","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:48:06.733Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:48:06.733Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:48:06.736Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c83"}}
+{"ts":"2026-10-15T07:48:06.762Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:48:06.794Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:06.963Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c84","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:48:09.579Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:48:09.579Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:48:09.582Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c84"}}
+{"ts":"2026-10-15T07:48:09.592Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:09.617Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:09.911Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c85","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:48:15.525Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:48:15.525Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:48:15.529Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c85"}}
+{"ts":"2026-10-15T07:48:15.541Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:15.561Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:15.910Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c86","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:48:17.632Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:48:17.632Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:48:17.633Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c86"}}
+{"ts":"2026-10-15T07:48:17.640Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:48:17.653Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:17.958Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c87","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:48:25.540Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:48:25.540Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:48:25.543Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c87"}}
+{"ts":"2026-10-15T07:48:25.553Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:25.581Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:25.893Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c88","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:48:32.742Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:48:32.742Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:48:32.746Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c88"}}
+{"ts":"2026-10-15T07:48:32.765Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:32.784Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:33.034Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c89","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:48:35.284Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:48:35.284Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:48:35.285Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c89"}}
+{"ts":"2026-10-15T07:48:35.292Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:35.306Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:35.686Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c90","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:48:38.364Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:48:38.364Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:48:38.367Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c90"}}
+{"ts":"2026-10-15T07:48:38.381Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:48:38.401Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:38.775Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c91","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:48:41.935Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:48:41.935Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:48:41.937Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c91"}}
+{"ts":"2026-10-15T07:48:41.950Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:41.970Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:48:42.207Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c92","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:52:10.522Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:52:10.522Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:52:10.524Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c92"}}
+{"ts":"2026-10-15T07:52:10.571Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:52:10.588Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:52:10.839Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c93","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:52:30.041Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:52:30.041Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:52:30.046Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c93"}}
+{"ts":"2026-10-15T07:52:30.055Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:52:30.069Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:52:30.450Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c94","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:52:44.157Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:52:44.157Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:52:44.161Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c94"}}
+{"ts":"2026-10-15T07:52:44.180Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T07:52:44.211Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:52:44.568Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c95","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:53:21.827Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:53:21.827Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:53:21.831Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c95"}}
+{"ts":"2026-10-15T07:53:21.853Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:53:21.895Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:53:22.109Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c96","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:53:24.020Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:53:24.021Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:53:24.029Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c96"}}
+{"ts":"2026-10-15T07:53:24.038Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:53:24.076Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:53:24.286Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c97","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:53:25.284Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:53:25.284Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:53:25.326Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c97"}}
+{"ts":"2026-10-15T07:53:25.392Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":5}}
+{"ts":"2026-10-15T07:53:25.551Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:53:25.657Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c98","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:53:41.627Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:53:41.627Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:53:41.629Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c98"}}
+{"ts":"2026-10-15T07:53:41.642Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:53:41.661Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:53:41.971Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c99","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:02.717Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:02.717Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:02.717Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c99"}}
+{"ts":"2026-10-15T07:54:02.730Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:02.762Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:03.000Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c100","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:04.022Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:04.022Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:04.024Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c100"}}
+{"ts":"2026-10-15T07:54:04.038Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:54:04.075Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:04.421Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c101","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:05.574Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:05.574Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:05.576Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c101"}}
+{"ts":"2026-10-15T07:54:05.583Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:05.605Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:05.951Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c102","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:07.376Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:07.376Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:07.380Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c102"}}
+{"ts":"2026-10-15T07:54:07.393Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:07.416Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:07.773Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c103","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:09.006Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:09.006Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:09.008Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c103"}}
+{"ts":"2026-10-15T07:54:09.016Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:09.067Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:09.242Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c104","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:10.374Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:10.374Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:10.377Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c104"}}
+{"ts":"2026-10-15T07:54:10.384Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:10.409Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:10.785Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c105","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:15.369Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:15.369Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:15.372Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c105"}}
+{"ts":"2026-10-15T07:54:15.388Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:15.414Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:15.665Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c106","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:19.281Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:19.281Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:19.283Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c106"}}
+{"ts":"2026-10-15T07:54:19.300Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:19.336Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:19.576Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c107","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:20.536Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:20.536Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:20.539Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c107"}}
+{"ts":"2026-10-15T07:54:20.551Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:20.576Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:20.865Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c108","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:22.370Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:22.370Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:22.371Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c108"}}
+{"ts":"2026-10-15T07:54:22.380Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:22.398Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:22.707Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c109","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:42.326Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:42.326Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:42.331Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c109"}}
+{"ts":"2026-10-15T07:54:42.343Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:42.359Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:42.737Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c110","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:45.200Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:45.200Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:45.219Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c110"}}
+{"ts":"2026-10-15T07:54:45.243Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:45.285Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:54:45.559Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c111","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:52.208Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:52.208Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:52.213Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c111"}}
+{"ts":"2026-10-15T07:54:52.229Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:52.262Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:52.567Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c112","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:54:53.266Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:54:53.266Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:54:53.269Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c112"}}
+{"ts":"2026-10-15T07:54:53.278Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:53.312Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:54:53.626Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c113","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:55:32.594Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:55:32.594Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:55:32.599Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c113"}}
+{"ts":"2026-10-15T07:55:32.609Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:55:32.632Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:55:34.529Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:55:35.097Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c114","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:55:47.018Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:55:47.019Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:55:47.021Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c114"}}
+{"ts":"2026-10-15T07:55:47.033Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:55:47.049Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:55:47.313Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c115","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:55:53.854Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:55:53.855Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:55:53.857Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c115"}}
+{"ts":"2026-10-15T07:55:53.872Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:55:53.897Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:55:54.269Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c116","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:55:57.968Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:55:57.969Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:55:57.971Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c116"}}
+{"ts":"2026-10-15T07:55:57.988Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:55:58.015Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:55:58.309Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c117","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:56:08.633Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:56:08.633Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:56:08.636Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c117"}}
+{"ts":"2026-10-15T07:56:08.651Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T07:56:08.677Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:08.975Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c118","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:56:19.992Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:56:19.992Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:56:19.996Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c118"}}
+{"ts":"2026-10-15T07:56:20.024Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:56:20.079Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:20.299Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c119","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:56:22.148Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:56:22.148Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:56:22.151Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c119"}}
+{"ts":"2026-10-15T07:56:22.162Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:22.189Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:22.478Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c120","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:56:23.641Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:56:23.641Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:56:23.644Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c120"}}
+{"ts":"2026-10-15T07:56:23.652Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:56:23.676Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:23.990Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c121","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:56:28.451Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:56:28.451Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:56:28.454Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c121"}}
+{"ts":"2026-10-15T07:56:28.464Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:28.488Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:28.827Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c122","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:56:29.972Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:56:29.972Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:56:29.976Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c122"}}
+{"ts":"2026-10-15T07:56:29.986Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:30.009Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:30.396Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c123","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:56:53.868Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:56:53.868Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:56:53.871Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c123"}}
+{"ts":"2026-10-15T07:56:53.884Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:53.908Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:54.256Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c124","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:56:57.346Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:56:57.347Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:56:57.350Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c124"}}
+{"ts":"2026-10-15T07:56:57.365Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:57.396Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:56:57.763Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c125","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:57:01.933Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:57:01.933Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:57:01.936Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c125"}}
+{"ts":"2026-10-15T07:57:01.954Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:01.981Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:02.322Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c126","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:57:07.142Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:57:07.142Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:57:07.145Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c126"}}
+{"ts":"2026-10-15T07:57:07.156Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:07.176Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:07.550Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c127","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:57:10.256Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:57:10.256Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:57:10.259Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c127"}}
+{"ts":"2026-10-15T07:57:10.269Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:10.291Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:10.581Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c128","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:57:17.435Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:57:17.435Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:57:17.439Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c128"}}
+{"ts":"2026-10-15T07:57:17.446Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:17.470Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:17.698Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c129","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:57:30.180Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:57:30.180Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:57:30.182Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c129"}}
+{"ts":"2026-10-15T07:57:30.193Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:30.218Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:30.429Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c130","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:57:37.253Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:57:37.253Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:57:37.254Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c130"}}
+{"ts":"2026-10-15T07:57:37.265Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:37.280Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:37.667Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c131","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:57:44.334Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:57:44.334Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:57:44.337Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c131"}}
+{"ts":"2026-10-15T07:57:44.352Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:57:44.389Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:44.684Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c132","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:57:56.770Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:57:56.771Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:57:56.774Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c132"}}
+{"ts":"2026-10-15T07:57:56.788Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:56.812Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:57:57.082Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c133","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:58:02.264Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:58:02.264Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:58:02.266Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c133"}}
+{"ts":"2026-10-15T07:58:02.284Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:02.323Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:02.537Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c134","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:58:27.982Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:58:27.982Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:58:27.984Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c134"}}
+{"ts":"2026-10-15T07:58:28.000Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:28.030Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:28.286Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c135","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:58:32.583Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:58:32.584Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:58:32.586Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c135"}}
+{"ts":"2026-10-15T07:58:32.596Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:32.629Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:32.848Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c136","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:58:36.275Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:58:36.275Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:58:36.277Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c136"}}
+{"ts":"2026-10-15T07:58:36.286Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:36.314Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:36.589Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c137","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:58:38.135Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:58:38.135Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:58:38.137Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c137"}}
+{"ts":"2026-10-15T07:58:38.147Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:58:38.181Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:58:38.531Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c138","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:58:40.446Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:58:40.446Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:58:40.449Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c138"}}
+{"ts":"2026-10-15T07:58:40.462Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:40.480Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:40.667Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c139","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:58:42.953Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:58:42.953Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:58:42.955Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c139"}}
+{"ts":"2026-10-15T07:58:42.965Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":3}}
+{"ts":"2026-10-15T07:58:42.986Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:43.278Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c140","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:58:49.538Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:58:49.538Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:58:49.539Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c140"}}
+{"ts":"2026-10-15T07:58:49.560Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":10}}
+{"ts":"2026-10-15T07:58:49.589Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:49.780Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c141","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:58:54.031Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:58:54.032Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:58:54.036Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c141"}}
+{"ts":"2026-10-15T07:58:54.046Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:58:54.089Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:58:54.429Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c142","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:59:01.120Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:59:01.120Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:59:01.127Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c142"}}
+{"ts":"2026-10-15T07:59:01.139Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:59:01.171Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:59:01.391Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c143","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:59:03.839Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:59:03.839Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:59:03.853Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c143"}}
+{"ts":"2026-10-15T07:59:03.884Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T07:59:03.925Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:59:04.149Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c144","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:59:28.668Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:59:28.668Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:59:28.671Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c144"}}
+{"ts":"2026-10-15T07:59:28.682Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:59:28.717Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:59:28.918Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c145","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:59:31.538Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:59:31.538Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:59:31.541Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c145"}}
+{"ts":"2026-10-15T07:59:31.790Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:59:31.817Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:59:31.928Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c146","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:59:40.786Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:59:40.786Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:59:40.790Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c146"}}
+{"ts":"2026-10-15T07:59:40.803Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-15T07:59:40.830Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:59:41.185Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c147","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:59:43.181Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:59:43.181Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:59:43.189Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c147"}}
+{"ts":"2026-10-15T07:59:43.197Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:59:43.220Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:59:43.509Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c148","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:59:45.252Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T07:59:45.252Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T07:59:45.259Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c148"}}
+{"ts":"2026-10-15T07:59:45.275Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:59:45.293Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:59:45.571Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c149","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:59:57.083Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:59:57.083Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:59:57.086Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c149"}}
+{"ts":"2026-10-15T07:59:57.107Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:59:57.130Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T07:59:57.338Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c150","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T07:59:58.903Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T07:59:58.903Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T07:59:58.907Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c150"}}
+{"ts":"2026-10-15T07:59:58.919Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T07:59:58.945Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T07:59:59.300Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c151","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:00:00.982Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:00:00.982Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:00:00.985Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c151"}}
+{"ts":"2026-10-15T08:00:00.995Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:00:01.016Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:00:01.321Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c152","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:00:13.727Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:00:13.727Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:00:13.731Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c152"}}
+{"ts":"2026-10-15T08:00:13.748Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:00:13.777Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:00:14.054Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c153","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:00:17.157Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:00:17.157Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:00:17.160Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c153"}}
+{"ts":"2026-10-15T08:00:17.179Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:00:17.220Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:00:17.406Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c154","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:00:45.677Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:00:45.677Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:00:45.683Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c154"}}
+{"ts":"2026-10-15T08:00:45.718Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":5}}
+{"ts":"2026-10-15T08:00:45.804Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:00:46.027Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c155","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:00:48.092Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:00:48.092Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:00:48.096Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c155"}}
+{"ts":"2026-10-15T08:00:48.117Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:00:48.155Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:00:48.317Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c156","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:00:50.985Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:00:50.985Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:00:50.991Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c156"}}
+{"ts":"2026-10-15T08:00:51.023Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:00:51.085Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:00:51.287Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c157","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:00:59.413Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:00:59.414Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:00:59.416Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c157"}}
+{"ts":"2026-10-15T08:00:59.436Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:00:59.483Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:00:59.863Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c158","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:01:01.587Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:01:01.587Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:01:01.590Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c158"}}
+{"ts":"2026-10-15T08:01:01.606Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:01.652Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:01.810Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c159","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:01:04.230Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:01:04.230Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:01:04.234Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c159"}}
+{"ts":"2026-10-15T08:01:04.251Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:01:04.294Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:04.579Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c160","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:01:06.055Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:01:06.055Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:01:06.058Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c160"}}
+{"ts":"2026-10-15T08:01:06.073Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:06.112Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:06.437Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c161","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:01:20.994Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:01:20.994Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:01:21.000Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c161"}}
+{"ts":"2026-10-15T08:01:21.029Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:21.060Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:21.219Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c162","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:01:27.128Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:01:27.128Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:01:27.131Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c162"}}
+{"ts":"2026-10-15T08:01:27.151Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:27.181Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:27.478Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c163","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:01:38.643Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:01:38.643Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:01:38.647Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c163"}}
+{"ts":"2026-10-15T08:01:38.677Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:38.735Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:01:39.007Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c164","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:01:41.079Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:01:41.080Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:01:41.083Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c164"}}
+{"ts":"2026-10-15T08:01:41.106Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:41.138Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:41.403Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c165","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:01:46.872Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:01:46.872Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:01:46.874Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c165"}}
+{"ts":"2026-10-15T08:01:46.892Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:46.925Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:47.224Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c166","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:01:52.341Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:01:52.341Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:01:52.350Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c166"}}
+{"ts":"2026-10-15T08:01:52.370Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:52.414Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:52.725Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c167","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:01:54.633Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:01:54.633Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:01:54.635Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c167"}}
+{"ts":"2026-10-15T08:01:54.654Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:54.696Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:55.073Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c168","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:01:56.632Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:01:56.632Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:01:56.635Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c168"}}
+{"ts":"2026-10-15T08:01:56.648Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:56.679Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:01:56.971Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c169","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:02:00.068Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:02:00.068Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:02:00.073Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c169"}}
+{"ts":"2026-10-15T08:02:00.096Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:00.143Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:00.396Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c170","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:02:03.528Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:02:03.528Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:02:03.532Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c170"}}
+{"ts":"2026-10-15T08:02:03.544Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:03.579Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:03.824Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c171","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:02:07.642Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:02:07.642Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:02:07.643Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c171"}}
+{"ts":"2026-10-15T08:02:07.660Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:07.699Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:08.005Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c172","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:02:12.419Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:02:12.420Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:02:12.426Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c172"}}
+{"ts":"2026-10-15T08:02:12.454Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:12.507Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:12.818Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c173","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:02:46.801Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:02:46.801Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:02:46.805Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c173"}}
+{"ts":"2026-10-15T08:02:46.820Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:46.847Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:47.078Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c174","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:02:48.241Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:02:48.241Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:02:48.247Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c174"}}
+{"ts":"2026-10-15T08:02:48.265Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:02:48.307Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:48.605Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c175","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:02:54.379Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:02:54.379Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:02:54.383Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c175"}}
+{"ts":"2026-10-15T08:02:54.415Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:54.465Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:02:54.600Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c176","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:05:37.982Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:05:37.982Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:05:37.986Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c176"}}
+{"ts":"2026-10-15T08:05:38.037Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:05:38.122Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:05:38.253Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c177","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:05:41.069Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:05:41.069Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:05:41.072Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c177"}}
+{"ts":"2026-10-15T08:05:41.097Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:05:41.125Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:05:41.369Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c178","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:05:44.702Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:05:44.702Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:05:44.705Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c178"}}
+{"ts":"2026-10-15T08:05:44.727Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:05:44.776Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:05:45.012Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c179","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:05:48.304Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:05:48.304Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:05:48.306Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c179"}}
+{"ts":"2026-10-15T08:05:48.323Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:05:48.370Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:05:48.540Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c180","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:06:28.089Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:06:28.090Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:06:28.092Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c180"}}
+{"ts":"2026-10-15T08:06:28.138Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:06:28.194Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:06:28.304Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c181","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T08:06:47.287Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:06:47.287Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:06:47.288Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c181"}}
+{"ts":"2026-10-15T08:06:47.302Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:06:47.318Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:06:47.667Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c182","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:06:51.460Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:06:51.460Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:06:51.462Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c182"}}
+{"ts":"2026-10-15T08:06:51.486Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:06:51.510Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:06:51.867Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c183","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:06:55.680Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:06:55.680Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:06:55.682Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c183"}}
+{"ts":"2026-10-15T08:06:55.697Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:06:55.716Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:06:56.078Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c184","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:07:01.354Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:07:01.354Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:07:01.359Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c184"}}
+{"ts":"2026-10-15T08:07:01.379Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:07:01.394Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:07:01.658Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c185","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:07:05.373Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:07:05.373Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:07:05.376Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c185"}}
+{"ts":"2026-10-15T08:07:05.496Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:07:05.518Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:07:05.604Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c186","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:07:06.598Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:07:06.598Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:07:06.600Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c186"}}
+{"ts":"2026-10-15T08:07:06.610Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:07:06.638Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:07:06.840Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c187","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:07:09.760Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:07:09.760Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:07:09.761Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c187"}}
+{"ts":"2026-10-15T08:07:09.768Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:07:09.782Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:07:10.176Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c188","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:07:13.763Z","session":"20261015-073844","kind":"file_change","data":{"path":"drieluik/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:07:13.763Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"drieluik/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:07:13.766Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c188"}}
+{"ts":"2026-10-15T08:07:13.775Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:07:13.793Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/drieluik/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:07:14.113Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c189","url":"http://localhost:5500/drieluik/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}

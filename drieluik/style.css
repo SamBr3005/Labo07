@@ -1,0 +1,28 @@
+.container {
+    display: grid;
+    grid-template-columns: 19vw auto 19vw;
+    gap: 4vw;
+    padding: 6vh 4vw;
+    height: 80vh;
+    border: 4px solid;
+    margin: 2vw;
+
+    
+}
+.box{
+    display: grid;
+    color: white;
+    font-size: 4vw;
+    align-items: center;
+    justify-items: center;
+}
+
+.one {
+    background-color: darkturquoise;
+}
+.two {
+    background-color: darkviolet;
+}
+.three {
+    background-color: deepskyblue;   
+}
