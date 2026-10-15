@@ -4244,3 +4244,21 @@
 {"ts":"2026-10-15T10:06:08.924Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
 {"ts":"2026-10-15T10:06:08.936Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
 {"ts":"2026-10-15T10:06:09.233Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c713","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[750,798]}}
+{"ts":"2026-10-15T10:06:42.216Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T10:06:42.217Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T10:06:42.220Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c713"}}
+{"ts":"2026-10-15T10:06:42.244Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":5}}
+{"ts":"2026-10-15T10:06:42.285Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T10:06:42.561Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c714","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[750,798]}}
+{"ts":"2026-10-15T10:06:44.685Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T10:06:44.685Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T10:06:44.687Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c714"}}
+{"ts":"2026-10-15T10:06:44.697Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T10:06:44.708Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T10:06:44.944Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c715","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[750,798]}}
+{"ts":"2026-10-15T10:06:45.933Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T10:06:45.934Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T10:06:45.936Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c715"}}
+{"ts":"2026-10-15T10:06:45.946Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T10:06:45.961Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T10:06:46.265Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c716","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[750,798]}}
