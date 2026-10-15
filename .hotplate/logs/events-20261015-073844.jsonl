@@ -2834,3 +2834,991 @@
 {"ts":"2026-10-15T09:10:19.277Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":0}}
 {"ts":"2026-10-15T09:10:19.293Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":200,"duration_ms":1}}
 {"ts":"2026-10-15T09:10:19.501Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c476","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:11:23.187Z","session":"20261015-073844","kind":"file_change","data":{"path":"page-nested/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:11:23.187Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"page-nested/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:11:23.190Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c476"}}
+{"ts":"2026-10-15T09:11:23.207Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:11:23.225Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:11:23.435Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c477","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:11:33.703Z","session":"20261015-073844","kind":"file_change","data":{"path":"page-nested/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T09:11:33.703Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"page-nested/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T09:11:33.705Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c477"}}
+{"ts":"2026-10-15T09:11:33.722Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:11:33.749Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:11:33.944Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c478","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:11:37.493Z","session":"20261015-073844","kind":"file_change","data":{"path":"page-nested/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T09:11:37.493Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"page-nested/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T09:11:37.495Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c478"}}
+{"ts":"2026-10-15T09:11:37.528Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":200,"duration_ms":21}}
+{"ts":"2026-10-15T09:11:37.542Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:11:37.802Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c479","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:12:32.730Z","session":"20261015-073844","kind":"file_change","data":{"path":"page-nested/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:12:32.730Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"page-nested/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:12:32.734Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c479"}}
+{"ts":"2026-10-15T09:12:32.748Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:12:32.782Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:12:32.987Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c480","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:12:34.059Z","session":"20261015-073844","kind":"file_change","data":{"path":"page-nested/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:12:34.059Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"page-nested/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:12:34.062Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c480"}}
+{"ts":"2026-10-15T09:12:34.076Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:12:34.094Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:12:34.443Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c481","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:12:50.809Z","session":"20261015-073844","kind":"file_change","data":{"path":"page-nested/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:12:50.809Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"page-nested/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:12:50.810Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c481"}}
+{"ts":"2026-10-15T09:12:50.818Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:12:50.834Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:12:51.039Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c482","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:12:52.205Z","session":"20261015-073844","kind":"file_change","data":{"path":"page-nested/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:12:52.205Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"page-nested/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:12:52.208Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c482"}}
+{"ts":"2026-10-15T09:12:52.228Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:12:52.271Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:12:52.609Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c483","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:12:56.000Z","session":"20261015-073844","kind":"file_change","data":{"path":"page-nested/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:12:56.000Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"page-nested/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:12:56.004Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c483"}}
+{"ts":"2026-10-15T09:12:56.015Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:12:56.036Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:12:56.350Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c484","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:12:58.156Z","session":"20261015-073844","kind":"file_change","data":{"path":"page-nested/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:12:58.156Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"page-nested/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:12:58.158Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c484"}}
+{"ts":"2026-10-15T09:12:58.174Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:12:58.190Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:12:58.537Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c485","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:13:01.721Z","session":"20261015-073844","kind":"file_change","data":{"path":"page-nested/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:13:01.721Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"page-nested/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:13:01.723Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c485"}}
+{"ts":"2026-10-15T09:13:01.734Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:13:01.753Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:13:02.124Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c486","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:13:23.003Z","session":"20261015-073844","kind":"file_change","data":{"path":"page-nested/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:13:23.003Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"page-nested/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:13:23.004Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c486"}}
+{"ts":"2026-10-15T09:13:23.014Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:13:23.030Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:13:23.378Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c487","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:13:49.077Z","session":"20261015-073844","kind":"file_change","data":{"path":"page-nested/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:13:49.078Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"page-nested/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:13:49.080Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c487"}}
+{"ts":"2026-10-15T09:13:49.105Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:13:49.126Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:13:49.469Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c488","url":"http://localhost:5500/page-nested/index.html#","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:14:45.418Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/index.html","ext":"html","change":"create"}}
+{"ts":"2026-10-15T09:14:45.418Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T09:14:45.419Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c488"}}
+{"ts":"2026-10-15T09:14:45.436Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:14:45.490Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:14:45.643Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c489","url":"http://localhost:5500/page-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:14:55.397Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:14:55.397Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:14:55.398Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c489"}}
+{"ts":"2026-10-15T09:14:55.414Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:14:55.459Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:14:55.727Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c490","url":"http://localhost:5500/page-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:14:58.613Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:14:58.613Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:14:58.615Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c490"}}
+{"ts":"2026-10-15T09:14:58.627Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:14:58.653Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:14:58.909Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c491","url":"http://localhost:5500/page-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:15:25.733Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T09:15:25.733Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T09:15:25.740Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c491"}}
+{"ts":"2026-10-15T09:15:25.752Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:15:25.775Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:15:26.102Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c492","url":"http://localhost:5500/page-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:15:27.293Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T09:15:27.293Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T09:15:27.295Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c492"}}
+{"ts":"2026-10-15T09:15:27.304Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:15:27.329Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:15:27.627Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c493","url":"http://localhost:5500/page-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:15:39.977Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T09:15:39.977Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T09:15:39.981Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c493"}}
+{"ts":"2026-10-15T09:15:39.988Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:15:40.010Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:15:40.319Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c494","url":"http://localhost:5500/page-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:15:41.221Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T09:15:41.221Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T09:15:41.223Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c494"}}
+{"ts":"2026-10-15T09:15:41.231Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:15:41.245Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:15:41.572Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c495","url":"http://localhost:5500/page-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:15:45.902Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T09:15:45.903Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T09:15:45.906Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c495"}}
+{"ts":"2026-10-15T09:15:45.916Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:15:45.948Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:15:46.243Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c496","url":"http://localhost:5500/page-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:15:54.165Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T09:15:54.165Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T09:15:54.168Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c496"}}
+{"ts":"2026-10-15T09:15:54.175Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:15:54.202Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:15:54.514Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c497","url":"http://localhost:5500/page-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:15:59.244Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T09:15:59.244Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T09:15:59.246Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c497"}}
+{"ts":"2026-10-15T09:15:59.255Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:15:59.278Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-nested/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:15:59.612Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c498","url":"http://localhost:5500/page-nested/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:16:18.182Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:16:18.213Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c499","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:16:39.832Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c498"}}
+{"ts":"2026-10-15T09:17:00.974Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:17:00.974Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:17:00.977Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c499"}}
+{"ts":"2026-10-15T09:17:00.994Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:17:01.514Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c500","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:17:03.515Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:17:03.515Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:17:03.521Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c500"}}
+{"ts":"2026-10-15T09:17:03.532Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:17:03.879Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c501","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:17:05.984Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:17:05.984Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:17:05.990Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c501"}}
+{"ts":"2026-10-15T09:17:06.000Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:17:06.254Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c502","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:17:10.614Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:17:10.614Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:17:10.617Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c502"}}
+{"ts":"2026-10-15T09:17:10.629Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:17:10.919Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c503","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:17:16.712Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:17:16.712Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:17:16.725Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c503"}}
+{"ts":"2026-10-15T09:17:16.731Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:17:17.112Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c504","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:17:56.270Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:17:56.271Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:17:56.279Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c504"}}
+{"ts":"2026-10-15T09:17:56.291Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:17:56.684Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c505","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:17:59.837Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:17:59.837Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:17:59.840Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c505"}}
+{"ts":"2026-10-15T09:17:59.853Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:18:00.073Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c506","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:18:03.985Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:18:03.986Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:18:03.990Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c506"}}
+{"ts":"2026-10-15T09:18:04.000Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:18:04.247Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c507","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:18:13.512Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:18:13.513Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:18:13.515Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c507"}}
+{"ts":"2026-10-15T09:18:13.547Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:18:13.809Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c508","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:18:30.146Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:18:30.146Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:18:30.148Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c508"}}
+{"ts":"2026-10-15T09:18:30.169Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":13}}
+{"ts":"2026-10-15T09:18:30.408Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c509","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:18:57.857Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:18:57.857Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:18:57.859Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c509"}}
+{"ts":"2026-10-15T09:18:57.870Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:18:58.073Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c510","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:19:09.908Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T09:19:09.908Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T09:19:09.911Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c510"}}
+{"ts":"2026-10-15T09:19:09.924Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:19:09.950Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:19:10.273Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c511","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:19:13.725Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:19:13.725Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:19:13.728Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c511"}}
+{"ts":"2026-10-15T09:19:13.741Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:19:13.755Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:19:14.047Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c512","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:19:28.708Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:19:28.708Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:19:28.710Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c512"}}
+{"ts":"2026-10-15T09:19:28.725Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:19:28.738Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:19:29.037Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c513","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:19:35.058Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:19:35.058Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:19:35.062Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c513"}}
+{"ts":"2026-10-15T09:19:35.076Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:19:35.103Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:19:35.480Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c514","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:19:37.910Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:19:37.911Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:19:37.913Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c514"}}
+{"ts":"2026-10-15T09:19:37.927Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:19:37.942Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:19:38.248Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c515","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:19:46.934Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:19:46.934Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:19:46.936Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c515"}}
+{"ts":"2026-10-15T09:19:46.946Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:19:46.972Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:19:47.281Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c516","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:19:49.581Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:19:49.581Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:19:49.583Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c516"}}
+{"ts":"2026-10-15T09:19:49.605Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:19:49.684Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:19:49.822Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c517","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:21:24.317Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:21:24.317Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:21:24.319Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c517"}}
+{"ts":"2026-10-15T09:21:24.330Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T09:21:24.356Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:21:24.677Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c518","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:21:27.242Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:21:27.242Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:21:27.245Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c518"}}
+{"ts":"2026-10-15T09:21:27.256Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:21:27.273Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:21:27.469Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c519","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:21:33.286Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:21:33.286Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:21:33.288Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c519"}}
+{"ts":"2026-10-15T09:21:33.303Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:21:33.314Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:21:33.770Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c520","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:21:38.905Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:21:38.905Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:21:38.909Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c520"}}
+{"ts":"2026-10-15T09:21:38.919Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:21:38.940Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:21:39.294Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c521","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:21:40.759Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:21:40.759Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:21:40.760Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c521"}}
+{"ts":"2026-10-15T09:21:40.770Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:21:40.801Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:21:41.015Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c522","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:21:50.020Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:21:50.020Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:21:50.027Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c522"}}
+{"ts":"2026-10-15T09:21:50.034Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:21:50.047Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:21:50.352Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c523","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:21:53.168Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:21:53.168Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:21:53.171Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c523"}}
+{"ts":"2026-10-15T09:21:53.179Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:21:53.197Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:21:53.495Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c524","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:22:13.227Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:22:13.227Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:22:13.230Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c524"}}
+{"ts":"2026-10-15T09:22:13.245Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T09:22:13.259Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:22:13.602Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c525","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:22:16.165Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:22:16.165Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:22:16.169Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c525"}}
+{"ts":"2026-10-15T09:22:16.177Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:22:16.199Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:22:16.438Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c526","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:22:30.917Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:22:30.917Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:22:30.921Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c526"}}
+{"ts":"2026-10-15T09:22:30.929Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:22:30.956Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:22:31.310Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c527","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:22:32.103Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:22:32.103Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:22:32.106Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c527"}}
+{"ts":"2026-10-15T09:22:32.118Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:22:32.135Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:22:32.395Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c528","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:23:08.729Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:23:08.729Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:23:08.731Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c528"}}
+{"ts":"2026-10-15T09:23:08.739Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:23:08.753Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:23:08.950Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c529","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:23:19.364Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:23:19.364Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:23:19.367Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c529"}}
+{"ts":"2026-10-15T09:23:19.379Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T09:23:19.396Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:23:19.649Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c530","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:23:32.465Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:23:32.466Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:23:32.470Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c530"}}
+{"ts":"2026-10-15T09:23:32.488Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":5}}
+{"ts":"2026-10-15T09:23:32.505Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:23:32.764Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c531","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:23:37.731Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:23:37.731Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:23:37.734Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c531"}}
+{"ts":"2026-10-15T09:23:37.747Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:23:37.767Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:23:38.037Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c532","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:24:12.220Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:24:12.220Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:24:12.225Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c532"}}
+{"ts":"2026-10-15T09:24:12.238Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T09:24:12.248Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:24:12.631Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c533","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:24:27.815Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:24:27.815Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:24:27.818Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c533"}}
+{"ts":"2026-10-15T09:24:27.830Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:24:27.845Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:24:28.052Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c534","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:24:38.644Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:24:38.644Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:24:38.646Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c534"}}
+{"ts":"2026-10-15T09:24:38.655Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:24:38.690Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:24:38.980Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c535","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:24:51.755Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:24:51.755Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:24:51.758Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c535"}}
+{"ts":"2026-10-15T09:24:51.770Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T09:24:51.790Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:24:52.182Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c536","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:24:59.373Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:24:59.375Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:24:59.377Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c536"}}
+{"ts":"2026-10-15T09:24:59.395Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T09:24:59.414Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:24:59.701Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c537","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:25:03.153Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:25:03.153Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:25:03.154Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c537"}}
+{"ts":"2026-10-15T09:25:03.161Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:03.178Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:03.462Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c538","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:25:06.261Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:25:06.262Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:25:06.264Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c538"}}
+{"ts":"2026-10-15T09:25:06.275Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:25:06.287Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:06.503Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c539","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:25:26.064Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:25:26.064Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:25:26.066Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c539"}}
+{"ts":"2026-10-15T09:25:26.081Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:25:26.115Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:25:31.110Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:25:31.224Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c540","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:25:32.988Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:25:32.988Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:25:32.991Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c540"}}
+{"ts":"2026-10-15T09:25:33.276Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:25:33.302Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:25:33.323Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c541","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:25:36.510Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:25:36.510Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:25:36.511Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c541"}}
+{"ts":"2026-10-15T09:25:36.522Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:36.540Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:36.823Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c542","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:25:38.793Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:25:38.794Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:25:38.796Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c542"}}
+{"ts":"2026-10-15T09:25:38.809Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:38.834Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:39.160Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c543","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:25:45.648Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:25:45.648Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:25:45.649Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c543"}}
+{"ts":"2026-10-15T09:25:45.655Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:45.670Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:46.057Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c544","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:25:49.896Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:25:49.896Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:25:49.898Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c544"}}
+{"ts":"2026-10-15T09:25:49.907Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:49.924Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:50.234Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c545","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:25:50.971Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:25:50.971Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:25:50.973Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c545"}}
+{"ts":"2026-10-15T09:25:50.984Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:51.008Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:51.199Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c546","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:25:52.632Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:25:52.632Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:25:52.635Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c546"}}
+{"ts":"2026-10-15T09:25:52.642Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:52.658Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:52.979Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c547","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:25:59.100Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:25:59.100Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:25:59.102Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c547"}}
+{"ts":"2026-10-15T09:25:59.116Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:59.133Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:25:59.490Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c548","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:26:28.080Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:26:28.080Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:26:28.084Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c548"}}
+{"ts":"2026-10-15T09:26:28.099Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:26:28.121Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:26:28.384Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c549","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:26:33.341Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:26:33.341Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:26:33.343Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c549"}}
+{"ts":"2026-10-15T09:26:33.358Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T09:26:33.374Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:26:33.675Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c550","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:05.575Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:05.575Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:05.577Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c550"}}
+{"ts":"2026-10-15T09:27:05.587Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:27:05.610Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:27:06.522Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c551","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:11.859Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:11.859Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:11.861Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c551"}}
+{"ts":"2026-10-15T09:27:11.870Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:11.890Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:27:12.132Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c552","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:21.602Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:21.602Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:21.604Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c552"}}
+{"ts":"2026-10-15T09:27:21.618Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:27:21.644Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:27:21.943Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c553","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:24.823Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:24.823Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:24.825Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c553"}}
+{"ts":"2026-10-15T09:27:24.836Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:24.852Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:25.244Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c554","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:31.229Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:31.229Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:31.230Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c554"}}
+{"ts":"2026-10-15T09:27:31.239Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:27:31.259Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:31.545Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c555","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:33.318Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:33.318Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:33.319Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c555"}}
+{"ts":"2026-10-15T09:27:33.329Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:33.346Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:33.588Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c556","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:39.921Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:39.922Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:39.924Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c556"}}
+{"ts":"2026-10-15T09:27:39.942Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:27:39.979Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:40.250Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c557","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:43.217Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:43.217Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:43.219Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c557"}}
+{"ts":"2026-10-15T09:27:43.226Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:43.246Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:43.471Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c558","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:44.407Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:44.407Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:44.409Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c558"}}
+{"ts":"2026-10-15T09:27:44.418Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:27:44.459Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:27:44.772Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c559","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:49.976Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:49.977Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:49.981Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c559"}}
+{"ts":"2026-10-15T09:27:49.991Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:50.022Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:50.284Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c560","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:52.354Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:52.355Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:52.357Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c560"}}
+{"ts":"2026-10-15T09:27:52.367Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:52.384Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:52.626Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c561","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:57.018Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:57.018Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:57.023Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c561"}}
+{"ts":"2026-10-15T09:27:57.036Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:57.053Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:57.321Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c562","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:27:58.268Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:27:58.268Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:27:58.275Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c562"}}
+{"ts":"2026-10-15T09:27:58.282Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:58.293Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:27:58.598Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c563","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:28:12.568Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:28:12.568Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:28:12.571Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c563"}}
+{"ts":"2026-10-15T09:28:12.584Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:28:12.603Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:28:12.891Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c564","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:28:31.645Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:28:31.645Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:28:31.648Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c564"}}
+{"ts":"2026-10-15T09:28:31.663Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:28:31.684Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:28:37.330Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:28:38.106Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c565","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:28:44.639Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:28:44.639Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:28:44.641Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c565"}}
+{"ts":"2026-10-15T09:28:44.653Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:28:44.669Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:28:44.970Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c566","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:28:57.343Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:28:57.343Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:28:57.347Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c566"}}
+{"ts":"2026-10-15T09:28:57.358Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:28:57.372Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:28:57.669Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c567","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:28:58.648Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:28:58.648Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:28:58.653Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c567"}}
+{"ts":"2026-10-15T09:28:58.663Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:28:58.683Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:28:58.928Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c568","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:29:11.117Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:29:11.117Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:29:11.120Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c568"}}
+{"ts":"2026-10-15T09:29:11.127Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:11.140Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:11.425Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c569","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:29:14.595Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:29:14.595Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:29:14.605Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c569"}}
+{"ts":"2026-10-15T09:29:14.608Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:14.624Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:14.973Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c570","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:29:18.485Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:29:18.485Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:29:18.489Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c570"}}
+{"ts":"2026-10-15T09:29:18.502Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:18.513Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:18.948Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c571","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:29:39.329Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:29:39.329Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:29:39.331Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c571"}}
+{"ts":"2026-10-15T09:29:39.344Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:39.353Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:39.641Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c572","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:29:47.398Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:29:47.398Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:29:47.400Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c572"}}
+{"ts":"2026-10-15T09:29:47.410Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:47.430Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:47.732Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c573","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:29:56.548Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:29:56.548Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:29:56.550Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c573"}}
+{"ts":"2026-10-15T09:29:56.565Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:56.582Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:56.865Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c574","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:29:58.057Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:29:58.057Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:29:58.061Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c574"}}
+{"ts":"2026-10-15T09:29:58.075Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:58.099Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:29:58.368Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c575","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:30:01.446Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:30:01.446Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:30:01.447Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c575"}}
+{"ts":"2026-10-15T09:30:01.453Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:30:01.479Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:30:01.763Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c576","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:30:17.988Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:30:17.988Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:30:17.990Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c576"}}
+{"ts":"2026-10-15T09:30:18.280Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:30:18.307Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:30:18.347Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c577","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:30:19.578Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:30:19.578Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:30:19.580Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c577"}}
+{"ts":"2026-10-15T09:30:19.586Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:30:19.600Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:30:19.812Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c578","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:30:57.675Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:30:57.675Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:30:57.678Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c578"}}
+{"ts":"2026-10-15T09:30:57.709Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:30:57.782Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:30:57.971Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c579","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T09:30:59.778Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:30:59.778Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:30:59.783Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c579"}}
+{"ts":"2026-10-15T09:30:59.805Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:30:59.838Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:31:00.005Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c580","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T09:32:30.817Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:32:30.817Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:32:30.820Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c580"}}
+{"ts":"2026-10-15T09:32:30.850Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:32:30.886Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:32:31.180Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c581","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,550]}}
+{"ts":"2026-10-15T09:32:39.436Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c581"}}
+{"ts":"2026-10-15T09:32:39.454Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:32:39.471Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:32:39.824Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c582","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:32:47.066Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:32:47.067Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:32:47.069Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c582"}}
+{"ts":"2026-10-15T09:32:47.112Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:32:47.214Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:32:47.440Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c583","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:33:44.095Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:33:44.095Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:33:44.100Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c583"}}
+{"ts":"2026-10-15T09:33:44.119Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T09:33:44.140Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:33:44.386Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c584","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:34:55.551Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:34:55.551Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:34:55.555Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c584"}}
+{"ts":"2026-10-15T09:34:55.570Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:34:55.594Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:34:55.959Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c585","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:34:57.590Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:34:57.590Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:34:57.592Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c585"}}
+{"ts":"2026-10-15T09:34:57.609Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:34:57.627Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:34:57.987Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c586","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:35:03.033Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:35:03.033Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:35:03.034Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c586"}}
+{"ts":"2026-10-15T09:35:03.043Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:35:03.061Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:35:03.389Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c587","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:35:13.469Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:35:13.469Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:35:13.472Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c587"}}
+{"ts":"2026-10-15T09:35:13.488Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:35:13.506Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:35:13.877Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c588","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:35:17.833Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:35:17.834Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:35:17.835Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c588"}}
+{"ts":"2026-10-15T09:35:17.849Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":5}}
+{"ts":"2026-10-15T09:35:17.862Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:35:18.128Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c589","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:35:42.961Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:35:42.961Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:35:42.964Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c589"}}
+{"ts":"2026-10-15T09:35:42.993Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:35:43.010Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:35:43.303Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c590","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:35:56.996Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:35:56.996Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:35:56.999Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c590"}}
+{"ts":"2026-10-15T09:35:57.017Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:35:57.040Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:35:57.244Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c591","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:35:58.863Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:35:58.863Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:35:58.867Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c591"}}
+{"ts":"2026-10-15T09:35:58.882Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:35:58.897Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:35:59.263Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c592","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:36:23.865Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:36:23.866Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:36:23.868Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c592"}}
+{"ts":"2026-10-15T09:36:23.877Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:36:23.906Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:36:24.093Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c593","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:36:26.514Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:36:26.514Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:36:26.517Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c593"}}
+{"ts":"2026-10-15T09:36:26.531Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:36:26.549Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:36:26.746Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c594","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:36:37.309Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:36:37.309Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:36:37.311Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c594"}}
+{"ts":"2026-10-15T09:36:37.324Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:36:37.347Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:36:37.684Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c595","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:36:40.524Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:36:40.524Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:36:40.527Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c595"}}
+{"ts":"2026-10-15T09:36:40.536Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:36:40.553Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:36:40.916Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c596","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:36:47.143Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:36:47.143Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:36:47.147Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c596"}}
+{"ts":"2026-10-15T09:36:47.161Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:36:47.189Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:36:47.362Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c597","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:36:48.778Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:36:48.778Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:36:48.786Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c597"}}
+{"ts":"2026-10-15T09:36:48.800Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:36:48.821Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:36:49.034Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c598","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:37:05.077Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:37:05.078Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:37:05.095Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c598"}}
+{"ts":"2026-10-15T09:37:05.106Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:05.124Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:05.379Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c599","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:37:15.716Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:37:15.716Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:37:15.719Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c599"}}
+{"ts":"2026-10-15T09:37:15.732Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T09:37:15.749Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:16.047Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c600","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:37:30.914Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:37:30.914Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:37:30.918Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c600"}}
+{"ts":"2026-10-15T09:37:30.933Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:30.954Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:31.220Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c601","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:37:35.333Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:37:35.333Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:37:35.335Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c601"}}
+{"ts":"2026-10-15T09:37:35.345Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:35.368Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:35.632Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c602","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:37:41.517Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:37:41.517Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:37:41.523Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c602"}}
+{"ts":"2026-10-15T09:37:41.537Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:37:41.566Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:41.883Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c603","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:37:48.603Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:37:48.603Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:37:48.605Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c603"}}
+{"ts":"2026-10-15T09:37:48.617Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:48.637Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:48.928Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c604","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:37:53.632Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:37:53.632Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:37:53.635Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c604"}}
+{"ts":"2026-10-15T09:37:53.648Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:53.672Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:53.927Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c605","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:37:58.491Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:37:58.491Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:37:58.493Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c605"}}
+{"ts":"2026-10-15T09:37:58.505Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:58.526Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:37:58.868Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c606","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:38:01.683Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:38:01.683Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:38:01.685Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c606"}}
+{"ts":"2026-10-15T09:38:01.699Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:38:01.718Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:38:01.917Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c607","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:38:12.281Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:38:12.281Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:38:12.287Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c607"}}
+{"ts":"2026-10-15T09:38:12.295Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:38:12.317Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:38:12.539Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c608","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:38:27.882Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:38:27.882Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:38:27.886Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c608"}}
+{"ts":"2026-10-15T09:38:27.901Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:38:27.923Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:38:28.207Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c609","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:38:30.150Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:38:30.150Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:38:30.154Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c609"}}
+{"ts":"2026-10-15T09:38:30.163Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:38:30.188Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:38:30.454Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c610","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:38:54.599Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:38:54.599Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:38:54.601Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c610"}}
+{"ts":"2026-10-15T09:38:54.612Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:38:54.635Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:38:55.097Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c611","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:39:06.519Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:39:06.519Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:39:06.523Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c611"}}
+{"ts":"2026-10-15T09:39:06.541Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:39:06.561Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:39:06.925Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c612","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:39:08.504Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:39:08.504Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:39:08.506Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c612"}}
+{"ts":"2026-10-15T09:39:08.517Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:39:08.532Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:39:08.823Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c613","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:39:13.283Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:39:13.283Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:39:13.285Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c613"}}
+{"ts":"2026-10-15T09:39:13.291Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:39:13.309Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:39:13.661Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c614","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:39:26.374Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:39:26.374Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:39:26.378Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c614"}}
+{"ts":"2026-10-15T09:39:26.394Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:39:26.429Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:39:26.786Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c615","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:39:28.273Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:39:28.273Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:39:28.276Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c615"}}
+{"ts":"2026-10-15T09:39:28.289Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:39:28.305Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:39:28.573Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c616","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:39:32.374Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:39:32.374Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:39:32.376Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c616"}}
+{"ts":"2026-10-15T09:39:32.385Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:39:32.401Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:39:32.728Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c617","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:39:37.243Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:39:37.243Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:39:37.246Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c617"}}
+{"ts":"2026-10-15T09:39:37.256Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:39:37.275Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:39:37.580Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c618","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:39:48.999Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:39:49.000Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:39:49.002Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c618"}}
+{"ts":"2026-10-15T09:39:49.011Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:39:49.033Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:39:49.308Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c619","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:40:06.827Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:40:06.827Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:40:06.830Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c619"}}
+{"ts":"2026-10-15T09:40:06.841Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:06.858Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:07.076Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c620","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:40:15.047Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:40:15.047Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:40:15.051Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c620"}}
+{"ts":"2026-10-15T09:40:15.059Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:15.079Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":2}}
+{"ts":"2026-10-15T09:40:15.301Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c621","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:40:19.712Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:40:19.712Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:40:19.715Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c621"}}
+{"ts":"2026-10-15T09:40:19.729Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:40:19.753Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:19.983Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c622","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:40:25.117Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:40:25.117Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:40:25.120Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c622"}}
+{"ts":"2026-10-15T09:40:25.135Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:25.144Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:25.428Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c623","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:40:29.308Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:40:29.308Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:40:29.311Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c623"}}
+{"ts":"2026-10-15T09:40:29.321Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:29.337Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T09:40:29.625Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c624","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:40:34.060Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:40:34.060Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:40:34.062Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c624"}}
+{"ts":"2026-10-15T09:40:34.073Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T09:40:34.089Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:34.495Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c625","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:40:44.755Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:40:44.756Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:40:44.758Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c625"}}
+{"ts":"2026-10-15T09:40:44.772Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:40:44.786Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:45.147Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c626","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:40:45.861Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:40:45.861Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:40:45.865Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c626"}}
+{"ts":"2026-10-15T09:40:45.873Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:45.899Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:46.280Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c627","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:40:47.603Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:40:47.603Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:40:47.605Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c627"}}
+{"ts":"2026-10-15T09:40:47.613Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:47.632Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":3}}
+{"ts":"2026-10-15T09:40:48.023Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c628","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:40:55.775Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:40:55.775Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:40:55.778Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c628"}}
+{"ts":"2026-10-15T09:40:55.790Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:55.805Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:40:56.137Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c629","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:41:18.208Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:41:18.208Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:41:18.211Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c629"}}
+{"ts":"2026-10-15T09:41:18.220Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:41:18.233Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:41:18.540Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c630","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:41:19.556Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:41:19.556Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:41:19.559Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c630"}}
+{"ts":"2026-10-15T09:41:19.569Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:41:19.588Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:41:19.959Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c631","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:41:22.675Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:41:22.676Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:41:22.681Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c631"}}
+{"ts":"2026-10-15T09:41:22.693Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:41:22.710Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:41:22.974Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c632","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:41:26.060Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:41:26.060Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:41:26.062Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c632"}}
+{"ts":"2026-10-15T09:41:26.074Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:41:26.092Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:41:26.452Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c633","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:41:32.764Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:41:32.764Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:41:32.767Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c633"}}
+{"ts":"2026-10-15T09:41:32.773Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:41:32.792Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":3}}
+{"ts":"2026-10-15T09:41:33.043Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c634","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:41:42.008Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:41:42.008Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:41:42.012Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c634"}}
+{"ts":"2026-10-15T09:41:42.037Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:41:42.060Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:41:42.247Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c635","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:41:52.742Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:41:52.742Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:41:52.745Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c635"}}
+{"ts":"2026-10-15T09:41:52.759Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:41:52.774Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:41:52.969Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c636","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:42:07.692Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:42:07.692Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:42:07.694Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c636"}}
+{"ts":"2026-10-15T09:42:07.706Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T09:42:07.723Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:42:07.995Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c637","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:42:10.883Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:42:10.883Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:42:10.888Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c637"}}
+{"ts":"2026-10-15T09:42:10.896Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:42:10.916Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:42:11.114Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c638","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:42:26.016Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:42:26.017Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:42:26.020Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c638"}}
+{"ts":"2026-10-15T09:42:26.032Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:42:26.052Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:42:27.206Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c639","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:42:27.545Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:42:27.545Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:42:27.548Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c639"}}
+{"ts":"2026-10-15T09:42:27.573Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T09:42:27.589Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:42:27.937Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c640","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:42:36.955Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:42:36.955Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:42:36.959Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c640"}}
+{"ts":"2026-10-15T09:42:36.973Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:42:36.993Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:42:37.221Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c641","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:42:39.807Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:42:39.807Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:42:39.809Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c641"}}
+{"ts":"2026-10-15T09:42:39.818Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:42:39.843Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:42:40.043Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c642","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T09:42:44.489Z","session":"20261015-073844","kind":"file_change","data":{"path":"hamburger/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T09:42:44.490Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"hamburger/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T09:42:44.492Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c642"}}
+{"ts":"2026-10-15T09:42:44.500Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T09:42:44.517Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/hamburger/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T09:42:44.711Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c643","url":"http://localhost:5500/hamburger/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
