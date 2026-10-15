@@ -1532,3 +1532,789 @@
 {"ts":"2026-10-15T08:20:59.339Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
 {"ts":"2026-10-15T08:20:59.354Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":200,"duration_ms":0}}
 {"ts":"2026-10-15T08:20:59.655Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c258","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:22:20.488Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"create"}}
+{"ts":"2026-10-15T08:22:20.488Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:22:20.489Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c258"}}
+{"ts":"2026-10-15T08:22:20.503Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:22:20.531Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:22:20.886Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c259","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:22:28.190Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:22:28.190Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:22:28.192Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c259"}}
+{"ts":"2026-10-15T08:22:28.202Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:22:28.224Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:22:28.606Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c260","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:22:44.529Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:22:44.529Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:22:44.531Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c260"}}
+{"ts":"2026-10-15T08:22:44.559Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:22:44.584Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:22:44.761Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c261","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:22:49.215Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:22:49.216Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:22:49.219Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c261"}}
+{"ts":"2026-10-15T08:22:49.228Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:22:49.254Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:22:49.574Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c262","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:22:52.730Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:22:52.730Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:22:52.732Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c262"}}
+{"ts":"2026-10-15T08:22:52.741Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:22:52.764Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:22:52.949Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c263","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:22:55.658Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:22:55.658Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:22:55.660Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c263"}}
+{"ts":"2026-10-15T08:22:55.670Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:22:55.689Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:22:56.037Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c264","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:22:57.179Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:22:57.179Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:22:57.181Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c264"}}
+{"ts":"2026-10-15T08:22:57.192Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:22:57.218Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:22:57.455Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c265","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:02.291Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:02.292Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:02.294Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c265"}}
+{"ts":"2026-10-15T08:23:02.309Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:23:02.343Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:02.645Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c266","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:04.468Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:04.468Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:04.470Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c266"}}
+{"ts":"2026-10-15T08:23:04.483Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:23:04.504Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:04.799Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c267","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:07.935Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:07.935Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:07.937Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c267"}}
+{"ts":"2026-10-15T08:23:07.944Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:07.961Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:08.251Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c268","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:28.274Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:28.274Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:28.275Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c268"}}
+{"ts":"2026-10-15T08:23:28.281Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:28.296Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:28.549Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c269","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:31.200Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:31.200Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:31.211Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c269"}}
+{"ts":"2026-10-15T08:23:31.219Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:31.239Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:31.511Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c270","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:33.788Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:33.788Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:33.791Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c270"}}
+{"ts":"2026-10-15T08:23:33.802Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:33.823Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:34.164Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c271","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:35.587Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:35.587Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:35.588Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c271"}}
+{"ts":"2026-10-15T08:23:35.595Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:35.612Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:35.951Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c272","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:36.669Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:36.669Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:36.675Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c272"}}
+{"ts":"2026-10-15T08:23:36.685Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:36.707Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:23:37.049Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c273","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:39.512Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:39.512Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:39.513Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c273"}}
+{"ts":"2026-10-15T08:23:39.521Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:39.542Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:39.882Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c274","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:42.001Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:42.001Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:42.004Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c274"}}
+{"ts":"2026-10-15T08:23:42.016Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:42.035Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:42.348Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c275","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:43.599Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:43.600Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:43.604Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c275"}}
+{"ts":"2026-10-15T08:23:43.616Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:43.642Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:23:44.006Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c276","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:46.941Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:46.941Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:46.944Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c276"}}
+{"ts":"2026-10-15T08:23:46.957Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:23:46.977Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:47.341Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c277","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:49.427Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:23:49.427Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:23:49.429Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c277"}}
+{"ts":"2026-10-15T08:23:49.440Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:23:49.463Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/page-layout/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:49.799Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c278","url":"http://localhost:5500/page-layout/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:52.470Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:23:52.511Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c279","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:23:55.312Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c278"}}
+{"ts":"2026-10-15T08:24:13.265Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"create"}}
+{"ts":"2026-10-15T08:24:13.265Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:24:13.268Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c279"}}
+{"ts":"2026-10-15T08:24:13.283Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:24:13.802Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c280","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:24:27.343Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:24:27.343Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:24:27.346Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c280"}}
+{"ts":"2026-10-15T08:24:27.358Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:24:27.637Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c281","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:24:28.935Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:24:28.935Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:24:28.939Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c281"}}
+{"ts":"2026-10-15T08:24:28.951Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:24:29.262Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c282","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:24:46.397Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:24:46.397Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:24:46.399Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c282"}}
+{"ts":"2026-10-15T08:24:46.429Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":200,"duration_ms":19}}
+{"ts":"2026-10-15T08:24:46.445Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:24:46.732Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c283","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:24:51.498Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:24:51.498Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:24:51.501Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c283"}}
+{"ts":"2026-10-15T08:24:51.514Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:24:51.529Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:24:51.876Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c284","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:24:57.574Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:24:57.575Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:24:57.576Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c284"}}
+{"ts":"2026-10-15T08:24:57.587Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-15T08:24:57.600Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:24:57.797Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c285","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:25:00.898Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:25:00.898Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:25:00.900Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c285"}}
+{"ts":"2026-10-15T08:25:00.911Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-15T08:25:00.933Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:25:01.199Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c286","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:25:06.366Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:25:06.366Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:25:06.368Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c286"}}
+{"ts":"2026-10-15T08:25:06.380Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":200,"duration_ms":5}}
+{"ts":"2026-10-15T08:25:06.401Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:25:06.689Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c287","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:25:09.013Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:25:09.013Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:25:09.015Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c287"}}
+{"ts":"2026-10-15T08:25:09.040Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-10-15T08:25:09.055Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:25:09.235Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c288","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:25:15.497Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:25:15.497Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:25:15.502Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c288"}}
+{"ts":"2026-10-15T08:25:15.518Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:25:15.537Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:25:15.815Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c289","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:25:18.143Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-15T08:25:18.143Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/index.html","reload_type":"full"}}
+{"ts":"2026-10-15T08:25:18.150Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c289"}}
+{"ts":"2026-10-15T08:25:18.159Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:25:18.183Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:25:18.449Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c290","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:25:20.913Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:25:20.913Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:25:20.915Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c290"}}
+{"ts":"2026-10-15T08:25:20.923Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:25:20.953Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:25:21.324Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c291","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:25:27.501Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:25:27.501Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:25:27.505Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c291"}}
+{"ts":"2026-10-15T08:25:27.519Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T08:25:27.546Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:25:27.863Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c292","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:25:40.665Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:25:40.665Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:25:40.678Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c292"}}
+{"ts":"2026-10-15T08:25:40.690Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:25:40.718Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:25:41.094Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c293","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:25:42.984Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:25:42.984Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:25:42.987Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c293"}}
+{"ts":"2026-10-15T08:25:42.997Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:25:43.013Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:25:43.241Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c294","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:25:49.758Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:25:49.758Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:25:49.766Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c294"}}
+{"ts":"2026-10-15T08:25:49.775Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:25:49.821Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:25:50.008Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c295","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:25:56.267Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:25:56.267Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:25:56.270Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c295"}}
+{"ts":"2026-10-15T08:25:56.278Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:25:56.302Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:25:56.568Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c296","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:26:06.248Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:26:06.248Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:26:06.253Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c296"}}
+{"ts":"2026-10-15T08:26:06.265Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:06.285Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:06.616Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c297","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:26:12.520Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:26:12.520Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:26:12.522Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c297"}}
+{"ts":"2026-10-15T08:26:12.532Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:12.558Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:12.894Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c298","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:26:15.248Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:26:15.248Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:26:15.250Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c298"}}
+{"ts":"2026-10-15T08:26:15.259Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:15.276Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:15.627Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c299","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:26:21.668Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:26:21.668Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:26:21.670Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c299"}}
+{"ts":"2026-10-15T08:26:21.684Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T08:26:21.698Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:22.001Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c300","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:26:26.630Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:26:26.630Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:26:26.631Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c300"}}
+{"ts":"2026-10-15T08:26:26.641Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:26.663Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:26.975Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c301","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:26:28.621Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:26:28.621Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:26:28.623Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c301"}}
+{"ts":"2026-10-15T08:26:28.630Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:28.652Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:28.985Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c302","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:26:30.979Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:26:30.979Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:26:30.981Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c302"}}
+{"ts":"2026-10-15T08:26:30.990Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:31.051Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:31.277Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c303","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:26:37.554Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:26:37.554Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:26:37.557Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c303"}}
+{"ts":"2026-10-15T08:26:37.571Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:26:37.606Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:37.830Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c304","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:26:54.335Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:26:54.335Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:26:54.338Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c304"}}
+{"ts":"2026-10-15T08:26:54.355Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:26:54.387Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:54.699Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c305","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:26:59.219Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:26:59.219Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:26:59.222Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c305"}}
+{"ts":"2026-10-15T08:26:59.231Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:59.258Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:26:59.490Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c306","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:27:02.762Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:27:02.763Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:27:02.765Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c306"}}
+{"ts":"2026-10-15T08:27:02.780Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:02.794Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:03.022Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c307","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:27:13.819Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:27:13.819Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:27:13.822Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c307"}}
+{"ts":"2026-10-15T08:27:13.833Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:13.854Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:14.042Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c308","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:27:15.977Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:27:15.977Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:27:15.980Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c308"}}
+{"ts":"2026-10-15T08:27:15.988Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:16.016Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:27:16.357Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c309","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:27:22.707Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:27:22.707Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:27:22.710Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c309"}}
+{"ts":"2026-10-15T08:27:22.728Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:27:22.754Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:23.097Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c310","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:27:25.678Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:27:25.678Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:27:25.682Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c310"}}
+{"ts":"2026-10-15T08:27:25.696Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:27:25.713Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:25.909Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c311","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:27:32.860Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:27:32.860Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:27:32.866Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c311"}}
+{"ts":"2026-10-15T08:27:32.875Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:32.895Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:33.134Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c312","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:27:35.719Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:27:35.719Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:27:35.721Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c312"}}
+{"ts":"2026-10-15T08:27:35.736Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:27:35.753Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:35.949Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c313","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:27:52.112Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:27:52.113Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:27:52.116Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c313"}}
+{"ts":"2026-10-15T08:27:52.129Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:52.157Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:27:52.402Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c314","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:27:53.925Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:27:53.926Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:27:53.927Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c314"}}
+{"ts":"2026-10-15T08:27:53.937Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:53.964Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:27:54.301Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c315","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:27:56.950Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:27:56.951Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:27:56.954Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c315"}}
+{"ts":"2026-10-15T08:27:56.960Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:56.989Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:27:57.364Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c316","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:27:58.317Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:27:58.317Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:27:58.320Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c316"}}
+{"ts":"2026-10-15T08:27:58.336Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:27:58.358Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:27:58.587Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c317","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:28:07.204Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:28:07.204Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:28:07.206Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c317"}}
+{"ts":"2026-10-15T08:28:07.214Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:28:07.236Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:28:07.519Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c318","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:28:11.552Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:28:11.552Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:28:11.556Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c318"}}
+{"ts":"2026-10-15T08:28:11.567Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:28:11.594Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:28:11.977Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c319","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:28:13.955Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:28:13.955Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:28:13.959Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c319"}}
+{"ts":"2026-10-15T08:28:13.975Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:28:13.991Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:28:14.232Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c320","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:28:30.343Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:28:30.343Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:28:30.346Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c320"}}
+{"ts":"2026-10-15T08:28:30.355Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:28:30.370Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:28:30.709Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c321","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:28:34.207Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:28:34.207Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:28:34.210Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c321"}}
+{"ts":"2026-10-15T08:28:34.222Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:28:34.237Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:28:34.555Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c322","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:28:46.221Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:28:46.221Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:28:46.226Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c322"}}
+{"ts":"2026-10-15T08:28:46.236Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:28:46.250Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:28:46.455Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c323","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:28:48.398Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:28:48.398Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:28:48.403Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c323"}}
+{"ts":"2026-10-15T08:28:48.415Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:28:48.440Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:28:48.749Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c324","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:28:50.551Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:28:50.551Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:28:50.557Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c324"}}
+{"ts":"2026-10-15T08:28:50.573Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:28:50.673Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:28:50.806Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c325","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:28:55.401Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:28:55.402Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:28:55.404Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c325"}}
+{"ts":"2026-10-15T08:28:55.418Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:28:55.455Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:28:55.788Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c326","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:29:01.239Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:29:01.239Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:29:01.241Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c326"}}
+{"ts":"2026-10-15T08:29:01.256Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:29:01.288Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:29:01.492Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c327","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:29:06.457Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:29:06.457Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:29:06.459Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c327"}}
+{"ts":"2026-10-15T08:29:06.473Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:29:06.490Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:29:06.702Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c328","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:29:26.153Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:29:26.153Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:29:26.155Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c328"}}
+{"ts":"2026-10-15T08:29:26.174Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:29:26.202Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:29:26.525Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c329","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:29:31.433Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:29:31.433Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:29:31.435Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c329"}}
+{"ts":"2026-10-15T08:29:31.442Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:29:31.455Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:29:31.744Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c330","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:29:59.924Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:29:59.924Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:29:59.926Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c330"}}
+{"ts":"2026-10-15T08:29:59.941Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:29:59.967Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:30:00.300Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c331","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:30:02.595Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:30:02.595Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:30:02.598Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c331"}}
+{"ts":"2026-10-15T08:30:02.613Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:30:02.644Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:30:02.857Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c332","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:30:04.959Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:30:04.959Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:30:04.960Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c332"}}
+{"ts":"2026-10-15T08:30:04.970Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:30:05.001Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:30:05.329Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c333","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:30:07.208Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:30:07.208Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:30:07.213Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c333"}}
+{"ts":"2026-10-15T08:30:07.226Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:30:07.250Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:30:07.574Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c334","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:30:45.428Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:30:45.428Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:30:45.432Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c334"}}
+{"ts":"2026-10-15T08:30:45.446Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:30:45.477Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:30:45.695Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c335","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:30:49.196Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:30:49.196Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:30:49.198Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c335"}}
+{"ts":"2026-10-15T08:30:49.209Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:30:49.232Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:30:49.581Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c336","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:30:53.147Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:30:53.147Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:30:53.150Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c336"}}
+{"ts":"2026-10-15T08:30:53.161Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:30:53.185Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:30:53.370Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c337","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:30:57.006Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:30:57.006Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:30:57.009Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c337"}}
+{"ts":"2026-10-15T08:30:57.021Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:30:57.046Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:30:57.370Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c338","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:30:58.811Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:30:58.811Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:30:58.814Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c338"}}
+{"ts":"2026-10-15T08:30:58.825Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:30:58.844Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:30:59.176Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c339","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:31:05.071Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:31:05.071Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:31:05.073Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c339"}}
+{"ts":"2026-10-15T08:31:05.081Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:31:05.100Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:31:05.312Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c340","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:31:08.200Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:31:08.201Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:31:08.203Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c340"}}
+{"ts":"2026-10-15T08:31:08.215Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:31:08.250Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:31:08.518Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c341","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:31:15.328Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:31:15.328Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:31:15.332Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c341"}}
+{"ts":"2026-10-15T08:31:15.342Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:31:15.356Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:31:15.649Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c342","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:31:16.807Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:31:16.807Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:31:16.810Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c342"}}
+{"ts":"2026-10-15T08:31:16.823Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:31:16.840Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:31:17.135Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c343","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:31:30.914Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:31:30.914Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:31:30.916Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c343"}}
+{"ts":"2026-10-15T08:31:30.930Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":2}}
+{"ts":"2026-10-15T08:31:30.947Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:31:31.303Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c344","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:32:08.878Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:32:08.879Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:32:08.883Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c344"}}
+{"ts":"2026-10-15T08:32:08.901Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:32:08.925Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:09.288Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c345","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:32:11.572Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:32:11.573Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:32:11.583Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c345"}}
+{"ts":"2026-10-15T08:32:11.593Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:11.618Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:11.946Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c346","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:32:12.986Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:32:12.986Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:32:12.988Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c346"}}
+{"ts":"2026-10-15T08:32:13.000Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:13.016Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:13.281Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c347","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:32:23.935Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:32:23.935Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:32:23.939Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c347"}}
+{"ts":"2026-10-15T08:32:23.955Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:23.983Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:24.159Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c348","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:32:25.694Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:32:25.695Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:32:25.700Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c348"}}
+{"ts":"2026-10-15T08:32:25.711Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:25.739Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:32:26.083Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c349","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:32:27.826Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:32:27.826Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:32:27.831Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c349"}}
+{"ts":"2026-10-15T08:32:27.841Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:27.872Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:32:28.107Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c350","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:32:31.592Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:32:31.592Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:32:31.594Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c350"}}
+{"ts":"2026-10-15T08:32:31.601Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:32:31.625Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:31.945Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c351","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:32:39.928Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:32:39.928Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:32:39.931Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c351"}}
+{"ts":"2026-10-15T08:32:39.948Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:32:39.972Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:40.238Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c352","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:32:57.860Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:32:57.860Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:32:57.861Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c352"}}
+{"ts":"2026-10-15T08:32:57.865Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:57.885Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:32:58.231Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c353","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:33:06.502Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:33:06.503Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:33:06.515Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c353"}}
+{"ts":"2026-10-15T08:33:06.522Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:06.540Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:06.908Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c354","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:33:09.284Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:33:09.284Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:33:09.286Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c354"}}
+{"ts":"2026-10-15T08:33:09.299Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:33:09.314Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:09.616Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c355","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:33:21.394Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:33:21.394Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:33:21.398Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c355"}}
+{"ts":"2026-10-15T08:33:21.410Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:21.432Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:21.700Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c356","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:33:26.094Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:33:26.094Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:33:26.097Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c356"}}
+{"ts":"2026-10-15T08:33:26.106Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:33:26.130Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:26.517Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c357","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:33:37.215Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:33:37.215Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:33:37.217Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c357"}}
+{"ts":"2026-10-15T08:33:37.228Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:37.249Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:37.543Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c358","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:33:39.751Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:33:39.751Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:33:39.756Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c358"}}
+{"ts":"2026-10-15T08:33:39.769Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:39.791Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:40.069Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c359","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:33:44.419Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:33:44.419Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:33:44.422Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c359"}}
+{"ts":"2026-10-15T08:33:44.433Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:33:44.451Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:44.752Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c360","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:33:50.429Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:33:50.430Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:33:50.431Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c360"}}
+{"ts":"2026-10-15T08:33:50.438Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:50.454Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:50.733Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c361","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:33:53.626Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:33:53.626Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:33:53.628Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c361"}}
+{"ts":"2026-10-15T08:33:53.640Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:53.655Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-15T08:33:54.028Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c362","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:33:57.657Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:33:57.657Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:33:57.660Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c362"}}
+{"ts":"2026-10-15T08:33:57.668Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:33:57.680Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:33:57.967Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c363","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:34:00.314Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:34:00.314Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:34:00.318Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c363"}}
+{"ts":"2026-10-15T08:34:00.341Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":13}}
+{"ts":"2026-10-15T08:34:00.368Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:34:00.632Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c364","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:34:40.839Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:34:40.839Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:34:40.845Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c364"}}
+{"ts":"2026-10-15T08:34:40.858Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:34:40.872Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:34:41.121Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c365","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:35:47.479Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:35:47.479Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:35:47.485Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c365"}}
+{"ts":"2026-10-15T08:35:47.636Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:35:47.662Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:35:47.853Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c366","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:35:52.515Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:35:52.515Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:35:52.517Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c366"}}
+{"ts":"2026-10-15T08:35:52.527Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:35:52.545Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:35:52.915Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c367","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:35:57.069Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:35:57.069Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:35:57.072Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c367"}}
+{"ts":"2026-10-15T08:35:57.082Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:35:57.104Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:35:57.371Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c368","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:35:59.313Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:35:59.313Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:35:59.315Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c368"}}
+{"ts":"2026-10-15T08:35:59.329Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:35:59.348Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:35:59.594Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c369","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:36:01.362Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:36:01.363Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:36:01.392Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c369"}}
+{"ts":"2026-10-15T08:36:01.403Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:36:01.420Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:36:01.672Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c370","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:36:34.507Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:36:34.507Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:36:34.511Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c370"}}
+{"ts":"2026-10-15T08:36:34.585Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:36:34.610Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:36:34.839Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c371","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:36:39.971Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:36:39.971Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:36:39.973Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c371"}}
+{"ts":"2026-10-15T08:36:40.021Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:36:40.033Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:36:40.234Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c372","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:07.619Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:07.620Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:07.621Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c372"}}
+{"ts":"2026-10-15T08:37:07.633Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:07.651Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:07.887Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c373","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:09.259Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:09.259Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:09.261Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c373"}}
+{"ts":"2026-10-15T08:37:09.277Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:37:09.298Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:09.505Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c374","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:10.872Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:10.873Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:10.874Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c374"}}
+{"ts":"2026-10-15T08:37:10.882Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:10.898Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:11.183Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c375","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:14.904Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:14.904Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:14.907Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c375"}}
+{"ts":"2026-10-15T08:37:14.913Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:14.932Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:15.254Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c376","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:19.809Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:19.809Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:19.813Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c376"}}
+{"ts":"2026-10-15T08:37:19.825Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:19.848Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:20.198Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c377","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:22.306Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:22.306Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:22.308Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c377"}}
+{"ts":"2026-10-15T08:37:22.317Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:22.336Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:22.556Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c378","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:25.282Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:25.282Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:25.284Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c378"}}
+{"ts":"2026-10-15T08:37:25.291Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:25.307Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:25.681Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c379","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:34.794Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:34.794Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:34.798Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c379"}}
+{"ts":"2026-10-15T08:37:34.808Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:34.832Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:35.184Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c380","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:36.426Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:36.426Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:36.427Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c380"}}
+{"ts":"2026-10-15T08:37:36.436Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:36.457Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:36.810Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c381","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:39.338Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:39.338Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:39.339Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c381"}}
+{"ts":"2026-10-15T08:37:39.350Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:39.366Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:39.648Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c382","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:42.338Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:42.338Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:42.341Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c382"}}
+{"ts":"2026-10-15T08:37:42.351Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:42.374Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:42.682Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c383","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:43.928Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:43.928Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:43.929Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c383"}}
+{"ts":"2026-10-15T08:37:43.935Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:43.950Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:44.264Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c384","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:50.607Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:50.607Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:50.610Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c384"}}
+{"ts":"2026-10-15T08:37:50.623Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:50.644Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:50.880Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c385","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:37:52.298Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:37:52.298Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:37:52.301Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c385"}}
+{"ts":"2026-10-15T08:37:52.309Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:52.331Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:37:52.555Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c386","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:38:02.924Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:38:02.924Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:38:02.927Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c386"}}
+{"ts":"2026-10-15T08:38:02.937Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:38:02.956Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:38:03.241Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c387","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:38:04.680Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:38:04.680Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:38:04.683Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c387"}}
+{"ts":"2026-10-15T08:38:04.696Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-15T08:38:04.722Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:38:05.090Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c388","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:39:15.071Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:39:15.071Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:39:15.075Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c388"}}
+{"ts":"2026-10-15T08:39:15.088Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:39:15.122Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:39:15.373Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c389","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-15T08:39:16.872Z","session":"20261015-073844","kind":"file_change","data":{"path":"pretty-colors/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-15T08:39:16.872Z","session":"20261015-073844","kind":"reload_trigger","data":{"path":"pretty-colors/style.css","reload_type":"css"}}
+{"ts":"2026-10-15T08:39:16.873Z","session":"20261015-073844","kind":"ws_disconnect","data":{"client_id":"c389"}}
+{"ts":"2026-10-15T08:39:16.890Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-15T08:39:16.912Z","session":"20261015-073844","kind":"http_request","data":{"method":"GET","path":"/pretty-colors/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-15T08:39:17.136Z","session":"20261015-073844","kind":"ws_connect","data":{"client_id":"c390","url":"http://localhost:5500/pretty-colors/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}

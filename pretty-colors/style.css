@@ -1,0 +1,35 @@
+body {
+    font-size: 2vw;
+    min-height: auto;
+    margin: 0;
+}
+.container {
+    margin: 0 4vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 28vh 28vh 28vh;
+    justify-content: center;
+    gap: 10px;
+    
+}
+article {
+    display: grid;
+    justify-content: center;
+    padding: 2vw 2vh;
+    border: 2px solid black;
+}
+article:nth-child(even) {
+    background-color: #2fcc71;
+    color: white;
+}
+article:nth-child(odd) {
+    background-color: #f1c40f;
+}
+article:first-child {
+    background-color: #3498db;
+    color: white;
+}
+article:last-child {
+    background-color: #e74b3c;
+    color: white;
+}
